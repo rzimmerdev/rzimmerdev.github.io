@@ -94,4 +94,4 @@ affecting the overall system.
 
 ## References:
 
-1. [Martin, Robert C.](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin")["Principles Of OOD"](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) - 2003.
+1. [Martin, Robert C.](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin")["Principles Of OOD"](https://www2.cs.arizona.edu/~mercer/Presentations/CSC335Fall14/28-PrinciplesofOOD.pptx).
