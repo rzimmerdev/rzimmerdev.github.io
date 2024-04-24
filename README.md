@@ -15,6 +15,8 @@ bundle
 bundle exec jekyll s
 ```
 
+After installing, access the blog at `http://localhost:4000`.
+
 ## License
 
 This work is published under [MIT License](https://opensource.org/license/mit/).
