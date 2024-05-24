@@ -43,7 +43,7 @@ order: 4
                 <strong>Optimizing a Market-Making strategy using Reinforcement Learning</strong><br>
                 <strong>Authors:</strong> <a href="https://rzimmerdev.github.io">Zimmer, R.</a><br>
                 <strong>Published:</strong> arXiv:cs.LG, 2024<br>
-                <a href="">Unfinished</a>
+                <a href="https://rzimmerdev.github.io/about">Unfinished</a>
 	        </div>
         </li>
         <li class="row">
