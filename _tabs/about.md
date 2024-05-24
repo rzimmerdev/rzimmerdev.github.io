@@ -39,24 +39,28 @@ order: 4
     <ul>
         <li class="row">
         	<img class="col-4" src="https://media.tenor.com/9Up2fSPNadoAAAAC/reinforcement-learning-cartpole-v0.gif" alt="Reinforcement cartpole example">
-		<div class="col">
-		            <strong>Optimizing a Market-Making strategy using Reinforcement Learning</strong><br>
-            <strong>Authors:</strong> <a href="https://rzimmerdev.github.io">Zimmer, R.</a><br>
-            
-	</div>
+		    <div class="col">
+                <strong>Optimizing a Market-Making strategy using Reinforcement Learning</strong><br>
+                <strong>Authors:</strong> <a href="https://rzimmerdev.github.io">Zimmer, R.</a><br>
+                <strong>Published:</strong> arXiv:cs.LG, 2024<br>
+                <a href="">Unfinished</a>
+	        </div>
+        </li>
+        <li class="row">
+        	<img class="col-4" src="https://github.com/rzimmerdev/ml-anomaly/blob/main/paper/images/results.png?raw=true" alt="Anomaly detection results">
+		    <div class="col">
+                <strong>Machine Learning Techniques for Improving Multiclass Anomaly Detection</strong><br>
+                <strong>Published:</strong> IEEE I2MTC 2024<br>
+                <a href="https://github.com/rzimmerdev/ml-anomaly">Code</a>
+	        </div>
         </li>
         <li class="row">
         	<img class="col-4" src="https://github.com/rzimmerdev/emotion-recognition/blob/main/images/architecture.png?raw=true" alt="HybridCNNFusion architecture">
-		<div class="col">
-		            <strong>Hybrid Models for Facial Emotion Recognition in Children</strong><br>
-            <strong>Authors:</strong> <a href="https://rzimmerdev.github.io">Zimmer, R.</a><br>
-            <strong>Published:</strong> arXiv:cs.LG, 2023<br>
-            <a href="https://arxiv.org/abs/2308.12547">Abstract</a> | <a href="https://arxiv.org/pdf/2308.12547.pdf">PDF</a>
-		</div>
-        </li>
-        <li>
-            <strong></strong><br>
-            <!-- Add details about the second publication here -->
+		    <div class="col">
+                <strong>Hybrid Models for Facial Emotion Recognition in Children</strong><br>
+                <strong>Published:</strong> arXiv:cs.LG, 2023<br>
+                <a href="https://arxiv.org/abs/2308.12547">Abstract</a> | <a href="https://arxiv.org/pdf/2308.12547.pdf">PDF</a>
+		    </div>
         </li>
     </ul>
 </section>
@@ -78,13 +82,13 @@ order: 4
 <section>
     <h3>Code</h3>
 <div class="repositories flex">
-    <a href="https://github.com/delphos-quant/forge" markdown="1">
+    <a href="https://github.com/divergex/dxforge" markdown="1">
         [![dxlib stats](https://github-readme-stats.vercel.app/api/pin/?username=delphos-quant&repo=forge&theme=dark&show_owner=true)](https://github.com/delphos-quant/forge)
     </a>
     <a href="https://github.com/rzimmerdev/emotion-recognition" markdown="1">
         [![emotion-recognition stats](https://github-readme-stats.vercel.app/api/pin/?username=rzimmerdev&repo=emotion-recognition&theme=dark&show_owner=true)](https://github.com/rzimmerdev/emotion-recognition)
     </a>
-    <a href="https://github.com/delphos-quant/dxlib" markdown="1">
+    <a href="https://github.com/divergex/dxlib" markdown="1">
         [![dxlib stats](https://github-readme-stats.vercel.app/api/pin/?username=delphos-quant&repo=dxlib&theme=dark&show_owner=true)](https://github.com/delphos-quant/dxlib)
     </a>
     <a href="https://github.com/rzimmerdev/pdi" markdown="1">
